@@ -1,0 +1,33 @@
+Formulae used 
+
+1. Profit = {[unit_price](1-d)-[unit_cost]} * Quantity_sold
+
+
+2. Effective selling price
+Effective_Unit_Price = ['Unit_Price'] * (1 - ['Discount'])
+
+
+3. Revenue recalculation (optional validation)
+Calculated_Revenue = ['Effective_Unit_Price'] * ['Quantity_Sold']
+
+
+4.	Profit per transaction 
+Profit = (['Effective_Unit_Price']- ['Unit_Cost']) * ['Quantity_Sold']
+
+
+5.	Margin 
+Margin_% = (['Profit'] / ['Calculated_Revenue']) * 100
+
+
+6. Profit without discount
+Profit_no_Discount = (['Unit_Price']- ['Unit_Cost']) * ['Quantity_Sold']
+df
+
+7. DIscount impact on profit 
+Discount_Impact = 'Profit_no_Discount' - 'Profit'
+
+8. Profit_per_Discount_Loss
+Total_Profit / Total_Discount_Impact
+
+9. Break-Even discount value
+Max_Dicosunt(d) = 1 - (unit_cost / unit_price)
