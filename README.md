@@ -1,4 +1,4 @@
-# retail-discount-profitability-analysis
+# Retail-discount-profitability-analysis
 
 Retail companies often increase sales using aggressive discounting strategies.
 However, excessive discounting can erode profit margins and lead to situations where revenue growth does not translate into sustainable profitability.
