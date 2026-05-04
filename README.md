@@ -5,6 +5,8 @@ However, excessive discounting can erode profit margins and lead to situations w
 
 This project investigates a retail sales dataset to understand how discounting impacts profit and whether pricing discipline could restore profitability.
 
+Dataset: Synthetic retail sales data generated for analysis purposes
+
 Project Objectives
 
 1. Analyze sales performance across product categories
