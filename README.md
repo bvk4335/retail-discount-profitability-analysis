@@ -1,4 +1,4 @@
-# Retail-discount-profitability-analysis
+# Quantitative Analysis of Retail Pricing & Discount Strategy
 
 Retail companies often increase sales using aggressive discounting strategies.
 However, excessive discounting can erode profit margins and lead to situations where revenue growth does not translate into sustainable profitability.
