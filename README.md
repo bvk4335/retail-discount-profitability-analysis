@@ -1,13 +1,13 @@
 # Quantitative Analysis of Retail Pricing & Discount Strategy
 
-Problem Statement:
+## Problem Statement:
 Discounting is one of the easiest levers a retail business can pull to boost sales — and one of the easiest ways to quietly bleed money. Revenue can look great on paper while every extra sale is actually costing the company money. It's a trap a lot of retail and D2C companies have fallen into (Doodhwala and Shuttl are two examples that come to mind).
 
 This project starts from one simple question:
 
 Is this company's discounting actually helping it grow — or is it slowly draining its profits?
 
-Project_Objectives:
+## Project_Objectives:
 - Understand how sales and revenue are performing across product categories, regions, and sales channels.
   
 - Check whether discounting is actually helping profit, or burning the profits.
@@ -18,7 +18,7 @@ Project_Objectives:
   
 - Simulate what happens to profit if discounting is brought back under control.
 
-Approach:
+## Approach:
 
 - Started with exploratory analysis across categories, regions, sales reps, and channels to see where revenue and profit    diverge.
 - Explored core profitability metrics (profit, margin, break-even discount) — see METRICS.md for exact formulas.
@@ -31,7 +31,7 @@ Approach:
   
 - Simulated capped-discount pricing to measure how much profit could be recovered.
 
-Key Findings:
+## Key Findings:
 
 - Revenue was healthy across every region and category — but profit margins were negative almost everywhere, meaning growth wasn't translating into actual money made.
 
@@ -45,7 +45,7 @@ Key Findings:
 
 - Capping discounts at the break-even level would have significantly improved total profit, without needing any drop in sales volume.
 
-Final_Recommedations:
+## Final_Recommendations:
 - Set a maximum discount cap for each product category, based on its break-even point.
   
 - Track sales rep performance on margin, not just revenue.
