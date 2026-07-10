@@ -45,6 +45,8 @@ Is this company's discounting actually helping it grow — or is it slowly drain
 
 - Capping discounts at the break-even level would have significantly improved total profit, without needing any drop in sales volume.
 
+- A multivariate check confirmed discount is the only statistically significant driver of profit — category, region, and channel showed no independent effect once discount was accounted for, ruling out those as root causes
+
 ## Final_Recommendations:
 - Set a maximum discount cap for each product category, based on its break-even point.
   
